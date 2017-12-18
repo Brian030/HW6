@@ -1,0 +1,4 @@
+﻿  main.c
+e:\高階程式語言設計\homework\hw6\106360244_沈柏丞\p10-9(fig 10.3)\source\main.c(28): warning C4244: '函式': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  HW.vcxproj -> E:\高階程式語言設計\homework\HW6\106360244_沈柏丞\P10-9(Fig 10.3)\HW\Debug\HW.exe
+  HW.vcxproj -> E:\高階程式語言設計\homework\HW6\106360244_沈柏丞\P10-9(Fig 10.3)\HW\Debug\HW.pdb (Partial PDB)
